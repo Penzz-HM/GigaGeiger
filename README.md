@@ -2,7 +2,7 @@
 
 **Wi-Fi Monitoring and Audit Tool** — *with the retro-futurism of a 1950s Geiger Counter.*
 
-![GigaGeiger Banner](gigageiger-banner.svg)
+![GigaGeiger Banner](assets/gigageiger-banner.svg)
 
 ---
 
@@ -84,9 +84,30 @@ You can flash the GigaGeiger via:
 
 ---
 
-## 📸 Screenshots
+## 📸 Visuals
 
-*(Insert images of each mode in action here)*
+Below are some photos of a fully setup GigaGeiger including all wiring, 3D printed caseings, screens, and flair.
+
+### External
+
+<img src="assets/external-1.jpg" width="50%" alt="External Image - Front" />
+<img src="assets/external-2.jpg" width="50%" alt="External Image - Left" />
+<img src="assets/external-3.jpg" width="50%" alt="External Image - Right" />
+<img src="assets/external-4.jpg" width="50%" alt="External Image - Bottom" />
+<img src="assets/external-5.jpg" width="50%" alt="External Image - Top" />
+
+### Internal
+
+<img src="assets/internal-1.jpg" width="50%" alt="Internal Image - Side" />
+<img src="assets/internal-2.jpg" width="50%" alt="Internal Image - Front" />
+<img src="assets/internal-3.jpg" width="50%" alt="Internal Image - Clasp" />
+<img src="assets/internal-4.jpg" width="50%" alt="Internal Image - Full Open" />
+
+### Screens
+
+<img src="assets/screen-1.jpg" width="50%" alt="Screen Image - Title" />
+<img src="assets/screen-2.jpg" width="50%" alt="Screen Image - Main" />
+<img src="assets/screen-3.jpg" width="50%" alt="Screen Image - Foxhunt" />
 
 ---
 
