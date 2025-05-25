@@ -2,7 +2,7 @@
 
 **Wi-Fi Monitoring and Audit Tool** — *with the retro-futurism of a 1950s Geiger Counter.*
 
-![GigaGeiger Banner](banner-image-placeholder.png) <!-- Replace with actual image if available -->
+![GigaGeiger Banner](gigageiger-banner.svg)
 
 ---
 
