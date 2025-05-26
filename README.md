@@ -92,13 +92,10 @@ You can flash the GigaGeiger via:
 
 Below are some photos of a fully setup GigaGeiger including all wiring, 3D printed caseings, screens, and flair.
 
-<br>
-
 ### External
 
-<div float="center">
 <img src="assets/external-1.jpg" width="49%" alt="External Image - Front" />
-</div>
+
 <div float="left">
 <img src="assets/external-2.jpg" width="49%" alt="External Image - Left" />
 <img src="assets/external-3.jpg" width="49%" alt="External Image - Right" />
