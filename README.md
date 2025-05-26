@@ -14,6 +14,8 @@
 
 Designed for field use, hacker cons, and nuclear-style networking fun.
 
+<img src="assets/screen-1.jpg" width="49%" alt="Screen Image - Title" />
+
 <br>
 
 ## 🔧 Operating Modes
@@ -93,8 +95,11 @@ Below are some photos of a fully setup GigaGeiger including all wiring, 3D print
 <br>
 
 ### External
-<div float="left">
+
+<div float="center">
 <img src="assets/external-1.jpg" width="49%" alt="External Image - Front" />
+</div>
+<div float="left">
 <img src="assets/external-2.jpg" width="49%" alt="External Image - Left" />
 <img src="assets/external-3.jpg" width="49%" alt="External Image - Right" />
 <img src="assets/external-4.jpg" width="49%" alt="External Image - Bottom" />
@@ -106,10 +111,10 @@ Below are some photos of a fully setup GigaGeiger including all wiring, 3D print
 ### Internal
 
 <div float="left">
-<img src="assets/internal-1.jpg" width="49%" alt="Internal Image - Side" />
-<img src="assets/internal-2.jpg" width="49%" alt="Internal Image - Front" />
-<img src="assets/internal-3.jpg" width="49%" alt="Internal Image - Clasp" />
 <img src="assets/internal-4.jpg" width="49%" alt="Internal Image - Full Open" />
+<img src="assets/internal-2.jpg" width="49%" alt="Internal Image - Front" />
+<img src="assets/internal-1.jpg" width="49%" alt="Internal Image - Side" />
+<img src="assets/internal-3.jpg" width="49%" alt="Internal Image - Clasp" />
 </div>
 
 <br>
@@ -117,7 +122,6 @@ Below are some photos of a fully setup GigaGeiger including all wiring, 3D print
 ### Screens
 
 <div float="left">
-<img src="assets/screen-1.jpg" width="49%" alt="Screen Image - Title" />
 <img src="assets/screen-2.jpg" width="49%" alt="Screen Image - Main" />
 <img src="assets/screen-3.jpg" width="49%" alt="Screen Image - Foxhunt" />
 </div>
