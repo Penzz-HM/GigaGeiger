@@ -2,9 +2,11 @@
 
 **Wi-Fi Monitoring and Audit Tool** — *with the retro-futurism of a 1950s Geiger Counter.*
 
-![GigaGeiger Banner](banner-image-placeholder.png) <!-- Replace with actual image if available -->
+<br>
 
----
+<img src="assets/gigageiger-banner.svg" width="50%" alt="GigaGeiger Banner" />
+
+<br>
 
 ## 🧪 What is the GigaGeiger?
 
@@ -12,7 +14,9 @@
 
 Designed for field use, hacker cons, and nuclear-style networking fun.
 
----
+<img src="assets/screen-1.jpg" width="49%" alt="Screen Image - Title" />
+
+<br>
 
 ## 🔧 Operating Modes
 
@@ -39,7 +43,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 - Displays the IP address via screen so you can flash new firmware via web browser.
 - Simple, secure, and stylish updates in the field.
 
----
+<br>
 
 ## 📡 Features
 
@@ -51,7 +55,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 - Web OTA firmware flashing over WPA2
 - All modes controlled with a single knob
 
----
+<br>
 
 ## 🚀 Getting Started
 
@@ -59,7 +63,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 2. Power the device on with the knob in your desired position.
 3. Start scanning, hunting, or updating!
 
----
+<br>
 
 ## 🔥 Flashing Firmware
 
@@ -73,7 +77,7 @@ You can flash the GigaGeiger via:
     - The device will show an IP address.
     - Open that IP in a browser and upload new firmware.
 
----
+<br>
 
 ## 🎛️ Tech Stack
 
@@ -82,25 +86,56 @@ You can flash the GigaGeiger via:
 - **Display:** [Your screen type here]
 - **Interface:** Analog rotary dial
 
----
+<br>
 
-## 📸 Screenshots
+## 📸 Visuals
 
-*(Insert images of each mode in action here)*
+Below are some photos of a fully setup GigaGeiger including all wiring, 3D printed caseings, screens, and flair.
 
----
+### External
+
+<img src="assets/external-1.jpg" width="49%" alt="External Image - Front" />
+
+<div float="left">
+<img src="assets/external-2.jpg" width="49%" alt="External Image - Left" />
+<img src="assets/external-3.jpg" width="49%" alt="External Image - Right" />
+<img src="assets/external-4.jpg" width="49%" alt="External Image - Bottom" />
+<img src="assets/external-5.jpg" width="49%" alt="External Image - Top" />
+</div>
+
+<br>
+
+### Internal
+
+<div float="left">
+<img src="assets/internal-4.jpg" width="49%" alt="Internal Image - Full Open" />
+<img src="assets/internal-2.jpg" width="49%" alt="Internal Image - Front" />
+<img src="assets/internal-1.jpg" width="49%" alt="Internal Image - Side" />
+<img src="assets/internal-3.jpg" width="49%" alt="Internal Image - Clasp" />
+</div>
+
+<br>
+
+### Screens
+
+<div float="left">
+<img src="assets/screen-2.jpg" width="49%" alt="Screen Image - Main" />
+<img src="assets/screen-3.jpg" width="49%" alt="Screen Image - Foxhunt" />
+</div>
+
+<br>
 
 ## 🛠️ Contributing
 
 Got ideas for new features, modes, or atomic theming? PRs and issues are welcome! Let’s make Wi-Fi feel radioactive again.
 
----
+<br>
 
 ## 🧻 License
 
 MIT License. Feel free to use, modify, and share.
 
----
+<br>
 
 ## ☢️ Inspired By
 
@@ -108,7 +143,7 @@ MIT License. Feel free to use, modify, and share.
 - DEFCON vibes
 - The unmistakable *click-click-click* of a Geiger counter in a sci-fi horror film
 
----
+<br>
 
 ### 🔍 Find the signal. Follow the radiation. GigaGeiger.
 
