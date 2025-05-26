@@ -2,9 +2,9 @@
 
 **Wi-Fi Monitoring and Audit Tool** — *with the retro-futurism of a 1950s Geiger Counter.*
 
-![GigaGeiger Banner](assets/gigageiger-banner.svg)
 
----
+<img src="assets/gigageiger-banner.svg" width="50%" alt="GigaGeiger Banner" />
+
 
 ## 🧪 What is the GigaGeiger?
 
@@ -12,7 +12,7 @@
 
 Designed for field use, hacker cons, and nuclear-style networking fun.
 
----
+
 
 ## 🔧 Operating Modes
 
@@ -39,7 +39,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 - Displays the IP address via screen so you can flash new firmware via web browser.
 - Simple, secure, and stylish updates in the field.
 
----
+
 
 ## 📡 Features
 
@@ -51,7 +51,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 - Web OTA firmware flashing over WPA2
 - All modes controlled with a single knob
 
----
+
 
 ## 🚀 Getting Started
 
@@ -59,7 +59,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 2. Power the device on with the knob in your desired position.
 3. Start scanning, hunting, or updating!
 
----
+
 
 ## 🔥 Flashing Firmware
 
@@ -73,7 +73,7 @@ You can flash the GigaGeiger via:
     - The device will show an IP address.
     - Open that IP in a browser and upload new firmware.
 
----
+
 
 ## 🎛️ Tech Stack
 
@@ -82,7 +82,7 @@ You can flash the GigaGeiger via:
 - **Display:** [Your screen type here]
 - **Interface:** Analog rotary dial
 
----
+
 
 ## 📸 Visuals
 
@@ -90,38 +90,38 @@ Below are some photos of a fully setup GigaGeiger including all wiring, 3D print
 
 ### External
 
-<img src="assets/external-1.jpg" width="50%" alt="External Image - Front" />
-<img src="assets/external-2.jpg" width="50%" alt="External Image - Left" />
-<img src="assets/external-3.jpg" width="50%" alt="External Image - Right" />
-<img src="assets/external-4.jpg" width="50%" alt="External Image - Bottom" />
-<img src="assets/external-5.jpg" width="50%" alt="External Image - Top" />
+<img src="assets/external-1.jpg" width="45%" alt="External Image - Front" />
+<img src="assets/external-2.jpg" width="45%" alt="External Image - Left" />
+<img src="assets/external-3.jpg" width="45%" alt="External Image - Right" />
+<img src="assets/external-4.jpg" width="45%" alt="External Image - Bottom" />
+<img src="assets/external-5.jpg" width="45%" alt="External Image - Top" />
 
 ### Internal
 
-<img src="assets/internal-1.jpg" width="50%" alt="Internal Image - Side" />
-<img src="assets/internal-2.jpg" width="50%" alt="Internal Image - Front" />
-<img src="assets/internal-3.jpg" width="50%" alt="Internal Image - Clasp" />
-<img src="assets/internal-4.jpg" width="50%" alt="Internal Image - Full Open" />
+<img src="assets/internal-1.jpg" width="45%" alt="Internal Image - Side" />
+<img src="assets/internal-2.jpg" width="45%" alt="Internal Image - Front" />
+<img src="assets/internal-3.jpg" width="45%" alt="Internal Image - Clasp" />
+<img src="assets/internal-4.jpg" width="45%" alt="Internal Image - Full Open" />
 
 ### Screens
 
-<img src="assets/screen-1.jpg" width="50%" alt="Screen Image - Title" />
-<img src="assets/screen-2.jpg" width="50%" alt="Screen Image - Main" />
-<img src="assets/screen-3.jpg" width="50%" alt="Screen Image - Foxhunt" />
+<img src="assets/screen-1.jpg" width="45%" alt="Screen Image - Title" />
+<img src="assets/screen-2.jpg" width="45%" alt="Screen Image - Main" />
+<img src="assets/screen-3.jpg" width="45%" alt="Screen Image - Foxhunt" />
 
----
+
 
 ## 🛠️ Contributing
 
 Got ideas for new features, modes, or atomic theming? PRs and issues are welcome! Let’s make Wi-Fi feel radioactive again.
 
----
+
 
 ## 🧻 License
 
 MIT License. Feel free to use, modify, and share.
 
----
+
 
 ## ☢️ Inspired By
 
@@ -129,7 +129,7 @@ MIT License. Feel free to use, modify, and share.
 - DEFCON vibes
 - The unmistakable *click-click-click* of a Geiger counter in a sci-fi horror film
 
----
+
 
 ### 🔍 Find the signal. Follow the radiation. GigaGeiger.
 
