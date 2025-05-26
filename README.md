@@ -93,27 +93,34 @@ Below are some photos of a fully setup GigaGeiger including all wiring, 3D print
 <br>
 
 ### External
+<div float="left">
+<img src="assets/external-1.jpg" width="49%" alt="External Image - Front" />
+<img src="assets/external-2.jpg" width="49%" alt="External Image - Left" />
+<img src="assets/external-3.jpg" width="49%" alt="External Image - Right" />
+<img src="assets/external-4.jpg" width="49%" alt="External Image - Bottom" />
+<img src="assets/external-5.jpg" width="49%" alt="External Image - Top" />
+</div>
 
-<img src="assets/external-1.jpg" width="45%" alt="External Image - Front" />
-<img src="assets/external-2.jpg" width="45%" alt="External Image - Left" />
-<img src="assets/external-3.jpg" width="45%" alt="External Image - Right" />
-<img src="assets/external-4.jpg" width="45%" alt="External Image - Bottom" />
-<img src="assets/external-5.jpg" width="45%" alt="External Image - Top" />
 <br>
 
 ### Internal
 
-<img src="assets/internal-1.jpg" width="45%" alt="Internal Image - Side" />
-<img src="assets/internal-2.jpg" width="45%" alt="Internal Image - Front" />
-<img src="assets/internal-3.jpg" width="45%" alt="Internal Image - Clasp" />
-<img src="assets/internal-4.jpg" width="45%" alt="Internal Image - Full Open" />
+<div float="left">
+<img src="assets/internal-1.jpg" width="49%" alt="Internal Image - Side" />
+<img src="assets/internal-2.jpg" width="49%" alt="Internal Image - Front" />
+<img src="assets/internal-3.jpg" width="49%" alt="Internal Image - Clasp" />
+<img src="assets/internal-4.jpg" width="49%" alt="Internal Image - Full Open" />
+</div>
+
 <br>
 
 ### Screens
 
-<img src="assets/screen-1.jpg" width="45%" alt="Screen Image - Title" />
-<img src="assets/screen-2.jpg" width="45%" alt="Screen Image - Main" />
-<img src="assets/screen-3.jpg" width="45%" alt="Screen Image - Foxhunt" />
+<div float="left">
+<img src="assets/screen-1.jpg" width="49%" alt="Screen Image - Title" />
+<img src="assets/screen-2.jpg" width="49%" alt="Screen Image - Main" />
+<img src="assets/screen-3.jpg" width="49%" alt="Screen Image - Foxhunt" />
+</div>
 
 <br>
 
