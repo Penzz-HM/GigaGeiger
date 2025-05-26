@@ -83,7 +83,7 @@ You can flash the GigaGeiger via:
 
 - **MCU:** ESP32-S3-WROOM
 - **Language:** Arduino / C++
-- **Display:** [Your screen type here]
+- **Display:** GC9A01
 - **Interface:** Analog rotary dial
 
 <br>
