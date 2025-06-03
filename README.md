@@ -2,6 +2,8 @@
 
 **Wi-Fi Monitoring and Audit Tool** — *with the retro-futurism of a 1950s Geiger Counter.*
 
+STORE: https://www.tindie.com/products/38838/
+
 <br>
 
 <img src="assets/gigageiger-banner.svg" width="50%" alt="GigaGeiger Banner" />
