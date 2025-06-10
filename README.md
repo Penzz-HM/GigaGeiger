@@ -41,7 +41,7 @@ The GigaGeiger features a 3-way rotary power dial. Each position unlocks a diffe
 ### ➡️ All the way RIGHT — **Web Flasher Mode**
 
 - Boots into OTA firmware update mode.
-- If the device detects an SSID named `GigaGeiger` with the password `Defcon32`, it connects automatically.
+- If the device detects an SSID named `GigaGeiger` with the password `Defcon33`, it connects automatically.
 - Displays the IP address via screen so you can flash new firmware via web browser.
 - Simple, secure, and stylish updates in the field.
 
